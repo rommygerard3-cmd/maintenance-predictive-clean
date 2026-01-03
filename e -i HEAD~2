@@ -1,0 +1,35 @@
+[33m47d08c6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Mise à jour du README pour l’exposé Bac 3
+[33m3c78a47[m Initial commit - Predictive Maintenance MLOps project (Bac 3 UPL)
+[33m48445d2[m Update README.md
+[33m1f17343[m Update README.md
+[33m36283a8[m Update README.md
+[33m445846a[m Update README.md
+[33m630f246[m Update README.md
+[33ma329854[m Update main.yaml
+[33m210fdea[m updated readme
+[33m668d46f[m solved import issue in app file
+[33m4066592[m resolved some errors in frontend and workflow file for proper aws integration
+[33m0224773[m resolved some errors in frontend files and main app file for proper integration
+[33mb0e183e[m added proper training methods and smote balancing transformations
+[33mb473ac2[m Update README.md
+[33m6f9ece5[m Update app.py
+[33m4aaf9b7[m Update requirements.txt
+[33mfead766[m Update Dockerfile
+[33m0be6d17[m Update README.md
+[33m8136d3d[m Delete mlartifacts/420889418952072685/models directory
+[33m9dc96d2[m Delete mlruns directory
+[33m42cd5f7[m Update README.md
+[33mcfdb6e1[m Update README.md
+[33mc9cf022[m updated docker files and added some files to gitignore and mlflow manager updated
+[33m2c222a2[m debugged mlflo
+[33mb44caf8[m some typos fixed
+[33mce5239a[m added mlflow and pipelines debugged
+[33mbe09513[m added more files to pipeline
+[33m62092c9[m completed project
+[33m48d0d35[m added readme
+[33m089bdd0[m added main file and some eda done
+[33mdc6c68d[m html file
+[33md1abc29[m new css file
+[33mb46531f[m Merge branch 'main' of https://github.com/Sa1f27/predictive-maintenance-mlops
+[33m982bed3[m updated some typos
+[33m5e97412[m Initial commit
